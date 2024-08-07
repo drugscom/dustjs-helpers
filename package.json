@@ -1,11 +1,11 @@
 {
-  "name": "dustjs-helpers",
+  "name": "@drugscom/dustjs-helpers",
   "version": "1.8.0",
   "author": {
     "name": "Aleksander Williams",
     "url": "http://akdubya.github.com/dustjs"
   },
-  "homepage": "http://dustjs.com/",
+  "homepage": "https://github.com/drugscom/dustjs-helpers",
   "description": "Helpers for dustjs-linkedin",
   "contributors": [
     "Veena Basavaraj <vybs@users.noreply.github.com>",
