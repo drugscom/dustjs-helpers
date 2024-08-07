@@ -27,7 +27,7 @@
   "main": "./lib/dust-helpers",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linkedin/dustjs-helpers.git"
+    "url": "https://github.com/drugscom/dustjs-helpers.git"
   },
   "keywords": [
     "templates",
