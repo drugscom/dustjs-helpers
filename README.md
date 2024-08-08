@@ -14,3 +14,6 @@ The helpers depend on and augment Dust.js. If you need a refresher, read a [quic
 You can look at a [list of the helpers](http://www.dustjs.com/guides/dust-helpers/) contained in this package, along with usage examples, on the website.
 
 The [changelog](https://github.com/linkedin/dustjs-helpers/blob/master/CHANGELOG.md) documents all added, deprecated, and removed functionality.
+
+## Fork
+Updating peer dependencies and to publish new .
