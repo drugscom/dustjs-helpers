@@ -16,4 +16,4 @@ You can look at a [list of the helpers](http://www.dustjs.com/guides/dust-helper
 The [changelog](https://github.com/linkedin/dustjs-helpers/blob/master/CHANGELOG.md) documents all added, deprecated, and removed functionality.
 
 ## Fork
-Updating peer dependencies and to publish new .
+Updating peer dependencies.
